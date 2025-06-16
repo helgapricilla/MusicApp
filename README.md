@@ -1,6 +1,6 @@
 # Music App 🎵
 
-![UI Design Social Media Professional Mockup Promotion 3D](https://github.com/user-attachments/assets/cae4c134-a639-4839-ae1f-2a26603c1713)
+![png](https://github.com/user-attachments/assets/7245b438-7d7f-47ac-8182-7853091be0ec)
 
 > Aplikasi musik ini menggunakan API untuk mengambil data online dan database lokal untuk fitur favorit.
 
